@@ -48,8 +48,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("night_talks_m")
-                await self.one.join_chat("nillcoderbot")
+                await self.one.join_chat("all_MovieVerse_Offical_Group")
+                await self.one.join_chat("shivu_o")
             except:
                 pass
             assistants.append(1)
@@ -79,8 +79,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("night_talks_m")
-                await self.two.join_chat("nillcoderbot")
+                await self.two.join_chat("all_MovieVerse_Offical_Group")
+                await self.two.join_chat("shivu_o")
             except:
                 pass
             assistants.append(2)
@@ -110,8 +110,8 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.two.join_chat("night_talks_m")
-                await self.three.join_chat("nillcoderbot")
+                await self.two.join_chat("all_MovieVerse_Offical_Group")
+                await self.three.join_chat("shivu_o")
             except:
                 pass
             assistants.append(3)
@@ -141,8 +141,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.two.join_chat("night_talks_m")
-                await self.four.join_chat("nillcoderbot")
+                await self.two.join_chat("all_MovieVerse_Offical_Group")
+                await self.four.join_chat("shivu_o")
             except:
                 pass
             assistants.append(4)
@@ -172,8 +172,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.two.join_chat("night_talks_m")
-                await self.five.join_chat("nillcoderbot")
+                await self.two.join_chat("all_MovieVerse_Offical_Group")
+                await self.five.join_chat("shivu_o")
             except:
                 pass
             assistants.append(5)
