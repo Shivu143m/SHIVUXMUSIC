@@ -40,7 +40,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="🌹 𝗢𝗪𝗡𝗘𝗥 🌹", url=f"https://telegram.me/nillcoderbot"
+                text="🌹 𝗢𝗪𝗡𝗘𝗥 🌹", url=f"https://telegram.me/shivu_o"
             ),
         ],
         [
@@ -68,7 +68,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 text=_["PL_B_2"],
                 callback_data=f"add_playlist {videoid}",
             ),
-            InlineKeyboardButton(text="🌹 𝗢𝗪𝗡𝗘𝗥 🌹", url=f"https://telegram.me/nillcoderbot"),
+            InlineKeyboardButton(text="🌹 𝗢𝗪𝗡𝗘𝗥 🌹", url=f"https://telegram.me/shivu_o"),
         ],
         [
             InlineKeyboardButton(
@@ -91,7 +91,7 @@ def stream_markup(_, videoid, chat_id):
                 text=_["PL_B_2"],
                 callback_data=f"add_playlist {videoid}",
             ),
-            InlineKeyboardButton(text="🌹 𝗢𝗪𝗡𝗘𝗥 🌹", url=f"https://telegram.me/nillcoderbot"),
+            InlineKeyboardButton(text="🌹 𝗢𝗪𝗡𝗘𝗥 🌹", url=f"https://telegram.me/shivu_o"),
         ],
         [
             InlineKeyboardButton(
