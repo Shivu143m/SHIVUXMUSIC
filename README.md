@@ -1,8 +1,8 @@
-<h1 align="center"><b>❤️ 𝗦𝗨𝗞𝗢𝗢𝗡 𝗠𝗨𝗦𝗜𝗖 ❤️</b></h1>
+<h1 align="center"><b>❤️ SHIVU 𝗠𝗨𝗦𝗜𝗖 ❤️</b></h1>
 
-<h4 align="center">Sukoon Music A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
+<h4 align="center">SHIVU Music A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://telegram.me/nillcoderbot"><img src="https://graph.org/file/0b4761961d6bf188e59c8.jpg" width="400"></a></p>
+<p align="center"><a href="https://telegram.me/SHIVU_O"><img src="https://te.legra.ph/file/fda1d651ea101aed041f7.png" width="400"></a></p>
 
 <p align="center">
     <a href="https://github.com/nillcoderbot/SukoonMusic"> <img src="https://img.shields.io/github/repo-size/nillcoderbot/SukoonMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -12,7 +12,7 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks to everyone for using Sukoon Music,  🤭 That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using shivu Music,  🤭 That is the greatest pleasure we have !
 
 
 ## Features Of Shizuka And Commands ❤️
@@ -185,8 +185,8 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [𝗡𝗜𝗟𝗟𝗖𝗢𝗗𝗘𝗥𝗕𝗢𝗧](https://telegram.me/nillcoderbot)
-- [𝗚𝗜𝗧𝗛𝗨𝗕](https://github.com/nillcoderbot)
+- [SHIVU](https://telegram.me/SHIVU_O)
+- [𝗚𝗜𝗧𝗛𝗨𝗕](https://github.com/SHIVU_O)
 </details>
 
 <details>
@@ -194,8 +194,8 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <br>
 
 # ❤️ Support<
-<a href="https://telegram.me/nillcoderbot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://telegram.me/night_talks_m"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://telegram.me/SHIVU_O"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://telegram.me/all_MovieVerse_Offical_Group"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 </details>
 
